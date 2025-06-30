@@ -1,0 +1,5 @@
+{
+  "name": "Gomukhi App",
+  "description": "A beautifully designed multi-counter application built with React and Tailwind CSS. Create, name, and manage multiple independent counters in a clean and intuitive interface.",
+  "requestFramePermissions": []
+}
